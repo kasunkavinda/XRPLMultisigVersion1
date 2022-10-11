@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "flagnames": "^1.0.4",
+    "xrpl-accountlib": "^1.5.2",
+    "xrpl-client": "^1.9.5"
+  },
+  "type": "module"
+}
